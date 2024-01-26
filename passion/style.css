@@ -1,0 +1,14 @@
+html{
+    background-color: rgb(237, 148, 100);
+}
+p {
+    color:rgb(255, 1, 255);
+    font-size: 30px;
+    background-color: rgb(0, 200, 250);
+    border:80px dashed blue
+}
+
+h1{
+    color:rgb(0, 255, 98); 
+    text-decoration: line-through;
+}
